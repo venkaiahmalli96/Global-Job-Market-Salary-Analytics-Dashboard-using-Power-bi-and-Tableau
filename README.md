@@ -79,6 +79,41 @@ The objective was to extract actionable business insights through clean, dynamic
 
 <img width="948" height="529" alt="image" src="https://github.com/user-attachments/assets/49008b17-bba4-4ec1-9a84-7e5b731e69ad" />
 
+## 📂 Repository Structure
+
+```plaintext
+airbnb-data-analysis-end-to-end
+│
+├── data/                          # Raw Airbnb dataset (CSV)
+│   └── airbnb_data.csv
+│
+├── sql/                           # SQL scripts (DDL, DML, analysis queries)
+│   ├── table_creation_and_insert.sql
+│   └── seven_analysis_queries.sql
+│
+├── neo4j/                         # Graph database (Neo4j Cypher queries)
+│   └── seven_analysis_queries.cql
+│
+├── ssrs/                          # SSRS project files and report outputs
+│   ├── AIRBNB.ssmssqlproj
+│   ├── SSRS_Reports_Code.txt
+│   └── outputs/
+│       ├── Hosts_Q1_output.csv
+│       ├── Revenue_Q2_Output.csv
+│       ├── Location_Q3_Output.csv
+│       └── Availability_Q4_output.csv
+│
+├── tableau/                       # Tableau packaged dashboard
+│   └── Airbnb_Tableau_Report_Dashboard.twbx
+│
+├── docs/                          # Reports and presentations
+│   ├── Airbnb_project_VenkaiahMalli.pdf
+│
+│
+├── README.md                      # Project overview (this file)
+└── LICENSE                        # License file
+```
+
 **Respository Structure**
 
 📂 Job_Salary_Visualization_CA2/
