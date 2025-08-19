@@ -64,17 +64,17 @@ The objective was to extract actionable business insights through clean, dynamic
   
   4. **Heatmap of job postings based on country/location coordinates**
   
-    5. **Work Type Breakdown (Intern, Full-Time, Remote)**
+  5. **Work Type Breakdown (Intern, Full-Time, Remote)**
   
-    6.**Pie & bar charts showing distribution of job formats**
+  6.**Pie & bar charts showing distribution of job formats**
   
-    7.**Qualification vs Salary Insights**
+  7.**Qualification vs Salary Insights**
   
-    8.**Compare educational qualifications and the salaries offered**
+  8.**Compare educational qualifications and the salaries offered**
   
-    9.**Job Portal Contribution & Company Size Trends**
+  9.**Job Portal Contribution & Company Size Trends**
   
-    10. **Analyze which job platforms dominate postings and hiring scale**
+ 10. **Analyze which job platforms dominate postings and hiring scale**
 
 <img width="969" height="718" alt="image" src="https://github.com/user-attachments/assets/9ae19005-2b2e-4c53-b0ab-b1aebe481e73" />
 
