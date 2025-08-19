@@ -33,16 +33,23 @@ The objective was to extract actionable business insights through clean, dynamic
 🎯 **Project Objectives**
 
   -> Visualize salary range distribution across roles, countries, and experience levels
+  
   -> Explore job availability by company size and portal
+  
   -> Identify high-demand roles and skill sets
+  
   -> Compare qualifications vs compensation
+  
   -> Map geographic hiring trends and hotspots
 
 📊 **Tools & Technologies**
 
   -> Tableau	Primary data visualization and dashboarding
+  
   -> Power BI	Complementary BI tool for dynamic reporting
+  
   -> Python & Pandas	Data cleaning and pre-analysis
+  
   -> Excel	Preliminary data formatting
   
 📈** Key Visualizations**
@@ -69,20 +76,21 @@ The objective was to extract actionable business insights through clean, dynamic
 
 **Respository Structure**
 
-Job_Salary_Visualization_CA2/
-├── data/
-│   └── Jobs_dataset_CA2.csv
+📂 Job_Salary_Visualization_CA2/
+├── 📁 data/
+│   └── 📄 Jobs_dataset_CA2.csv
 │
-├── visualizations/
-│   ├── Tableau/
-│   │   └── Job_Salary_visulaization_CA2_Tabluea.twb
-│   └── PowerBI/
-│       └── Powerbi_visualization.pbix
+├── 📁 visualizations/ 
+│   ├── 📁 Tableau/
+│   │   └── 📄 Job_Salary_visulaization_CA2_Tabluea.twb
+│   └── 📁 PowerBI/
+│       └── 📄 Powerbi_visualization.pbix
 │
-├── reports/
-│   └── Group_report_Data_visualization.pdf
+├── 📁 reports/
+│   └── 📄 Group_report_Data_visualization.pdf
 │
-├── README.md
+└── 📄 README.md
+
 
 
 **Skills Demonstrated**
