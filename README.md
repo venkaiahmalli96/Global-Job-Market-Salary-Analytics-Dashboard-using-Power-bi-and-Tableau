@@ -74,6 +74,11 @@ The objective was to extract actionable business insights through clean, dynamic
   
   10. **Analyze which job platforms dominate postings and hiring scale**
 
+<img width="969" height="718" alt="image" src="https://github.com/user-attachments/assets/9ae19005-2b2e-4c53-b0ab-b1aebe481e73" />
+
+
+<img width="948" height="529" alt="image" src="https://github.com/user-attachments/assets/49008b17-bba4-4ec1-9a84-7e5b731e69ad" />
+
 **Respository Structure**
 
 📂 Job_Salary_Visualization_CA2/
