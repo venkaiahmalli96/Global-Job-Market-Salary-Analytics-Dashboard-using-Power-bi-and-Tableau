@@ -6,10 +6,12 @@ This project provides a deep dive into the global job market by analyzing over 8
 
 The objective was to extract actionable business insights through clean, dynamic visual dashboards that showcase market dynamics and guide data-driven decisions for employers, job seekers, and analysts.
 
-📁 Dataset Overview
+📁 **Dataset Overview**
 
   -> Total Records: 8,541
+  
   -> Columns: 17 key features
+  
   -> Source: Custom job dataset compiled for academic and exploratory purposes
   
 | Feature Name            | Description                            |
@@ -62,17 +64,17 @@ The objective was to extract actionable business insights through clean, dynamic
   
   4. **Heatmap of job postings based on country/location coordinates**
   
-  5. **Work Type Breakdown (Intern, Full-Time, Remote)**
+    5. **Work Type Breakdown (Intern, Full-Time, Remote)**
   
-  6.**Pie & bar charts showing distribution of job formats**
+    6.**Pie & bar charts showing distribution of job formats**
   
-  7.**Qualification vs Salary Insights**
+    7.**Qualification vs Salary Insights**
   
-  8.**Compare educational qualifications and the salaries offered**
+    8.**Compare educational qualifications and the salaries offered**
   
-  9.**Job Portal Contribution & Company Size Trends**
+    9.**Job Portal Contribution & Company Size Trends**
   
-  10. **Analyze which job platforms dominate postings and hiring scale**
+    10. **Analyze which job platforms dominate postings and hiring scale**
 
 <img width="969" height="718" alt="image" src="https://github.com/user-attachments/assets/9ae19005-2b2e-4c53-b0ab-b1aebe481e73" />
 
@@ -82,55 +84,24 @@ The objective was to extract actionable business insights through clean, dynamic
 ## 📂 Repository Structure
 
 ```plaintext
-airbnb-data-analysis-end-to-end
+Global Job Market & Salary Analytics Dashboard using Power bi and Tableau/
 │
-├── data/                          # Raw Airbnb dataset (CSV)
-│   └── airbnb_data.csv
+├── data/                          # jobs salaries dataset (CSV)
+│   └── Jobs_dataset.csv
 │
-├── sql/                           # SQL scripts (DDL, DML, analysis queries)
-│   ├── table_creation_and_insert.sql
-│   └── seven_analysis_queries.sql
+├── Tableau Dashboards/             # Tableau packaged dashboard   
+│   ├── Job_Salary_visulaization_CA2_Tabluea.twbx
 │
-├── neo4j/                         # Graph database (Neo4j Cypher queries)
-│   └── seven_analysis_queries.cql
+├── PowerBi Visualizations/         # PowerBi packaged dashboard                
+│   └── Powerbi_visualization
 │
-├── ssrs/                          # SSRS project files and report outputs
-│   ├── AIRBNB.ssmssqlproj
-│   ├── SSRS_Reports_Code.txt
-│   └── outputs/
-│       ├── Hosts_Q1_output.csv
-│       ├── Revenue_Q2_Output.csv
-│       ├── Location_Q3_Output.csv
-│       └── Availability_Q4_output.csv
-│
-├── tableau/                       # Tableau packaged dashboard
-│   └── Airbnb_Tableau_Report_Dashboard.twbx
-│
-├── docs/                          # Reports and presentations
-│   ├── Airbnb_project_VenkaiahMalli.pdf
+├── docs/                          # Reports 
+│   ├── Job Salary Analysis_report.pdf
 │
 │
 ├── README.md                      # Project overview (this file)
 └── LICENSE                        # License file
 ```
-
-**Respository Structure**
-
-📂 Job_Salary_Visualization_CA2/
-├── 📁 data/
-│   └── 📄 Jobs_dataset_CA2.csv
-│
-├── 📁 visualizations/ 
-│   ├── 📁 Tableau/
-│   │   └── 📄 Job_Salary_visulaization_CA2_Tabluea.twb
-│   └── 📁 PowerBI/
-│       └── 📄 Powerbi_visualization.pbix
-│
-├── 📁 reports/
-│   └── 📄 Group_report_Data_visualization.pdf
-│
-└── 📄 README.md
-
 
 
 **Skills Demonstrated**
